@@ -1,0 +1,222 @@
+No.,tweet,Prompt,generated annotations,explanation
+1,"TRENDING: New Yorkers encounter empty supermarket shelves (pictured, Wegmans in Brooklyn), sold-out online grocers (FoodKick, MaxDelivery) as #coronavirus-fearing shoppers stock up https://t.co/Gr76pcrLWh https://t.co/ivMKMsqdT1","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about empty supermarket shelves and sold-out online grocers due to coronavirus fears
+2,"When I couldn't find hand sanitizer at Fred Meyer, I turned to #Amazon. But $114.97 for a 2 pack of Purell??!!Check out how  #coronavirus concerns are driving up prices. https://t.co/ygbipBflMY","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet complains about the high price of hand sanitizer on Amazon due to coronavirus concerns
+3,Find out how you can protect yourself and loved ones from #coronavirus. ?,"Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Positive,The tweet provides information on how to protect oneself and loved ones from coronavirus
+4,"#Panic buying hits #NewYork City as anxious shoppers stock up on food&amp;medical supplies after #healthcare worker in her 30s becomes #BigApple 1st confirmed #coronavirus patient OR a #Bloomberg staged event?
+
+https://t.co/IASiReGPC4
+
+#QAnon #QAnon2018 #QAnon2020 
+#Election2020 #CDC https://t.co/29isZOewxu","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about panic buying in New York City due to coronavirus fears
+5,#toiletpaper #dunnypaper #coronavirus #coronavirusaustralia #CoronaVirusUpdate #Covid_19 #9News  #Corvid19 #7NewsMelb #dunnypapergate #Costco    One week everyone buying baby milk powder the next everyone buying up toilet paper. https://t.co/ScZryVvsIh,"Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about the shortage of toilet paper due to coronavirus fears
+6,Do you remember the last time you paid $2.99 a gallon for regular gas in Los Angeles?Prices at the pump are going down. A look at how the #coronavirus is impacting prices. 4pm @ABC7 https://t.co/Pyzq8YMuV5,"Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Positive,The tweet talks about the decrease in gas prices due to the coronavirus
+7,Voting in the age of #coronavirus = hand sanitizer ? #SuperTuesday https://t.co/z0BeL4O6Dk,"Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Positive,The tweet provides information on how to vote safely during the coronavirus pandemic
+8,"@DrTedros ""We cant stop #COVID19 without protecting #healthworkers.
+Prices of surgical masks have increased six-fold, N95 respirators have more than trebled &amp; gowns cost twice as much""-@DrTedros #coronavirus","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,"The tweet talks about the increase in the prices of surgical masks, N95 respirators, and gowns due to the coronavirus"
+9,"HI TWITTER! I am a pharmacist. I sell hand sanitizer for a living! Or I do when any exists. Like masks, it is sold the fuck out everywhere. SHOULD YOU BE WORRIED? No. Use soap. SHOULD YOU VISIT TWENTY PHARMACIES LOOKING FOR THE LAST BOTTLE? No. Pharmacies are full of sick people.","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Positive,The tweet advises people not to worry about the shortage of hand sanitizer and to use soap instead
+10,"Anyone been in a supermarket over the last few days? Went to do my NORMAL shop last night &amp; ??is the sight that greeted me. Barmy! (Btw, whats so special about tinned tomatoes? ????????????). #Covid_19 #Dublin https://t.co/rGsM8xUxr6","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about the empty supermarket shelves due to coronavirus fears
+11,"Best quality couches at unbelievably low prices available to order.
+
+We are in Boksburg GP 
+
+For more info WhatsApp:
+084 764 8086
+
+#SuperTuesdsy #PowerTalk 
+#Covid_19 #SayEntrepreneur 
+#DJSBU https://t.co/HhDJhyQ2Dc","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Positive,The tweet advertises the sale of couches at low prices
+12,"Beware of counterfeits trying to sell fake masks at cheap prices. Let's defeat coronavirus threat, #Covid_19 collectively. #BeSafe #BeACascader #CoronavirusReachesDelhi 
+#coronavirusindia 
+
+https://t.co/2Ikkmimj4f https://t.co/RB9rtt7Nkc","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet warns about counterfeit masks being sold at cheap prices
+13,"Panic food buying in Germany due to #coronavirus has begun.  But the #organic is left behind! #Hamsterkauf
+
+Panic buying is called ""Hamster purchases""(Hamsterkäufe) in German, taken from the way Hamsters stuff their cheeks with food.  
+
+https://t.co/aYQtLLGW1m","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about panic food buying in Germany due to coronavirus fears
+14,"#Covid_19 Went to the Grocery Store, turns out all cleaning supplies have been bought out for fear of Coronavirus.
+
+My daughter's substitute teacher showed her class how to make hand sanitizer. Now I just need to buy some 100% alcohol. Wish me luck that any stores will have it.","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about the shortage of cleaning supplies due to coronavirus fears
+15,"While we were busy watching election returns and bracing for a Covid-19 outbreak, Trump nominated a chemical-industry lobbyist to head the Consumer Product Safety Commission https://t.co/M2ShHI1Tn0","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about the nomination of a chemical-industry lobbyist to head the Consumer Product Safety Commission during the coronavirus outbreak
+16,"#AirSewa 
+
+@flyspicejet is not providing #webchecin customers free seats.
+
+Passengers are forced to choose paid seats as free seats are made available only at airport counter. 
+
+This should be stopped as its discriminatory and against travellers rights 
+
+@HardeepSPuri @MoCA_GoI","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet complains about SpiceJet not providing free seats for web check-in customers
+17,"What Precautionary measures have you all taken in your respective Restaurants and Hotels, Comment below...
+#COVID-19 #Coronavirus
+
+COVID-19: Hotel chains enforce precautionary measures, issue safety, hygiene advisories
+https://t.co/7Zo2vqSPzY","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Positive,The tweet asks restaurants and hotels about the precautionary measures they are taking against the coronavirus
+18,"When youre stockpiling food &amp; other supplies, buy extra for your local food bank. Many families dont have the luxury to spend beyond their weekly budget. @DailyBreadTO  #coronavirus","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Positive,The tweet encourages people to buy extra food and supplies for their local food bank during the coronavirus pandemic
+19,"That's about a week from now. A bit optimistic.  Probably it will take another month.  Supply chain may be recovering, demand chain will be non-existent in US and Europe for the next month or two.
+$spx $qqq $es $nq https://t.co/yXcOfL0BnI","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet predicts that the supply chain recovery from the coronavirus pandemic will take longer than a week
+20,"Studies show the #coronavirus like #COVID19 can live up to nine days on hard surfaces like metal, plastic, and glass.
+
+Our Deputy Commissioner of Consumer Affairs Mary Barzee Flores shows you how to keep clean at the gas pump.
+
+Watch and share? https://t.co/AIqATWT5zz","Please analyze the sentiment of the above tweets and annotate it using the following labels: ['Positive', 'Extremely positive', 'Negative', 'Extremely Negative']
+ i.e. you have to assign any label from these labels to each tweet, by reading that tweet and analyzing it and the most related label you think is, give it to that tweet, you have to give me your answer in the following format:
+
+""tweet number/label given to the corresponding number tweet/reason why you gave this label to this tweet.""
+
+see this few examples to understand the format more:
+""1/Positive/because this tweet conveys positive message.""
+""2/Negative/because negative language is used in tweet.""
+above is only the examples to show you format, you have to give me your result in this format",Negative,The tweet talks about the survival of the coronavirus on hard surfaces for up to nine days
