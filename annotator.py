@@ -89,6 +89,7 @@ def write_output_to_csv(output_file, annotations):
 def main():
     CSV_FILE = 'Corona_NLP_test.csv'
     OUTPUT_FILE = 'output1.csv'
+    # limit to read the tweets from the CSV file
     LIMIT = 20
     
     # Read the tweets from the CSV file
