@@ -10,7 +10,7 @@ import google.generativeai as genai
 import csv
 
 # Set up the API key
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="YOUR-API-KEY")
 
 # Set up the model
 generation_config = {
@@ -52,12 +52,15 @@ convo = model.start_chat(history=[])
 # Define the function to annotate tweets
 def annotate_tweets(prompt, tweets):
     annotations = []
+    # giving prompt to the model
     convo.send_message(f"{tweets}\n\n{prompt}")
     result = convo.last.text
+    # cleaning the result and splitting it into annotations
     result = result.split('.')
     for res, tweet in zip(result, tweets):
         result_split = res.split("/")
-        annotations.append((result_split[0].strip(), tweet, prompt, result_split[1].strip(), result_split[2].strip()))
+        if len(result_split) == 3:
+            annotations.append((result_split[0].strip(), tweet, prompt, result_split[1].strip(), result_split[2].strip()))
     return annotations
 
 
@@ -114,8 +117,3 @@ def main():
 # Call the main function
 if __name__ == "__main__":
     main()
-
-
-
-
-
